@@ -25,12 +25,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/ankit7542/employee-review-system-main"
   },
   "keywords": [],
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ankit7542/employee-review-system-main"
   },
   "homepage": "",
-  "description": ""
+  "description": "https://github.com/ankit7542/employee-review-system-main"
 }
